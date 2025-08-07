@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 
 class LangtonAnt:
   def __init__(self,Name_):
